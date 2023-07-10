@@ -17,7 +17,7 @@ while True:
         print(f"Вы угадали число! Это число = {number}, за {count} попыток")
         break # конец игры, выход из цикла
 
-print('wtf')
+
     
 
 
